@@ -1,5 +1,6 @@
 # ScaryLand_Unity
 Window64 game made with Unity3d
+Functions such as gun shoot, object collision, elevator and animation created with Blend are included.
 
 
 # Instruction 
